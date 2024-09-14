@@ -22,7 +22,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eloanapontes&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="eloanapontes" /></p>
- <br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eloanapontes&show_icons=true&theme=synthwave&locale=en" alt="eloanapontes" /></p>
- <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eloanapontes&theme=dark" alt="eloanapontes" /></p>
+</br>
+
